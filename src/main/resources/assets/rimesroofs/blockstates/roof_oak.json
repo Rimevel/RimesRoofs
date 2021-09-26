@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "roofier_roofs:block/roof_oak"
+    },
+    "facing=east": {
+      "model": "roofier_roofs:block/roof_oak",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "roofier_roofs:block/roof_oak",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "roofier_roofs:block/roof_oak",
+      "y": 270
+    }
+  }
+}
